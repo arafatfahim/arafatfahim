@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Django **EMS**
 
-- 🌱 I’m currently learning **React Js, React Native**
+- 🌱 I’m currently learning **React Js, React Native, NEXT Js**
 
 - 💬 Ask me about **Django, Python**
 
