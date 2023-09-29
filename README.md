@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **React Js, React Native, NEXT Js**
-
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **arafat872@gmail.com**
