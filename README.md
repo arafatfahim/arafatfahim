@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arafatf43620662" target="blank"><img src="https://img.shields.io/twitter/follow/arafatf43620662?logo=twitter&style=for-the-badge" alt="arafatf43620662" /></a> </p>
 
-- 🔭 I’m currently working on Django **EMS**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **React Js, React Native, NEXT Js**
 
