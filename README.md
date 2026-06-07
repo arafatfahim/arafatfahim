@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, ML, AI**
 
 - 📫 How to reach me **arafat872@gmail.com**
 
