@@ -14,10 +14,10 @@
 <a href="https://huggingface.co/arafatfahim">
   <img src="https://img.shields.io/badge/Hugging%20Face-arafatfahim-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
-<a href="#">
+<a href="https://arafatfahim.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/arafat-hossain-fahim-38489b10b/">
   <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
