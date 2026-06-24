@@ -2,9 +2,7 @@
 
 ### Software Developer | Python/Django/FastAPI | AI & Bangla NLP Engineer | RAG Systems | Backend & Full-Stack Developer
 
-I am a Software Developer and AI/NLP Engineer with professional experience in building backend systems, full-stack applications, automation tools, data pipelines, RAG systems, and AI-powered intelligence platforms.
-
-Currently, I work as an **IT Officer / Software Developer at the Ministry of Home Affairs (MOHA)**, where I build and maintain Django-based applications, dashboards, backend services, database-backed systems, and operational software solutions.
+I am a Software Developer and AI/NLP Engineer with experience in building backend systems, full-stack applications, automation tools, data pipelines, RAG systems, and AI-powered intelligence platforms.
 
 I enjoy building practical systems that solve real-world problems — especially in backend engineering, automation, AI, NLP, data processing, social/news intelligence, and information retrieval.
 
@@ -12,14 +10,14 @@ I enjoy building practical systems that solve real-world problems — especially
 
 ## 🚀 What I Do
 
-* Build scalable backend systems using **Python, Django, Django REST Framework, and FastAPI**
+* Build backend systems using **Python, Django, Django REST Framework, and FastAPI**
 * Design and develop **REST APIs**, dashboards, admin panels, and workflow systems
 * Build **RAG systems** using document retrieval, embeddings, vector search, and LLM-based answer generation
 * Develop **Bangla NLP models** for sentiment analysis, emotion detection, NER, news classification, and event detection
 * Create **scraping and data collection pipelines** for news portals, social media, and public information sources
 * Build **AI-assisted automation systems**, monitoring dashboards, and data intelligence platforms
 * Work with **Docker-based deployments**, PostgreSQL databases, Redis, background workers, and real-time systems
-* Use AI tools like **Claude Code, Gemini CLI, OpenAI Codex, and Devin AI** for faster development, debugging, refactoring, and documentation
+* Use AI tools like **Claude Code, Gemini CLI, OpenAI Codex, Devin AI, and ChatGPT** for faster development, debugging, refactoring, and documentation
 
 ---
 
@@ -170,183 +168,7 @@ I enjoy building practical systems that solve real-world problems — especially
 
 ---
 
-## 💼 Professional Experience
-
-### IT Officer / Software Developer
-
-**Ministry of Home Affairs (MOHA)**
-📍 Tejgaon, Dhaka
-🗓️ November 2022 – Present
-
-* Working as a software developer on Django-based applications, internal systems, dashboards, data workflows, and operational software solutions.
-* Building and maintaining backend logic, database-backed features, automation workflows, and deployment-ready web applications.
-* Developing software tools that support internal operations, reporting, and information management.
-
-### Software Developer / Django Developer
-
-**AR Integrations & Solution Ltd. (ARIS)**
-📍 Tally Office, 17/1, Sonatangor, Jhigatola, Dhaka 1209
-🗓️ October 2021 – May 2022
-
-* Developed Django-based software modules, backend features, database models, and web application functionality.
-* Contributed to full-stack implementation, debugging, feature delivery, and application maintenance.
-
-### Software Developer Intern / Django Developer
-
-**Winmac System**
-📍 Gorib-e-Newaz, Uttara
-🗓️ July 2021 – October 2021
-
-* Worked on Django development tasks, web application features, database operations, and software debugging.
-* Gained hands-on experience in professional backend development workflows and application structure.
-
----
-
-## 🧩 Featured Projects
-
-### Prism — Election, News & Social Intelligence Platform
-
-An intelligence platform for monitoring election-related reports, geography, candidates, officials, trending topics, seat-wise news, event extraction, ML event detection, and sentiment analysis.
-
-**Tech Stack:** Django, PostgreSQL, Daphne/ASGI, Python, Pandas, NumPy, scikit-learn, BNLP, APScheduler, Docker
-
-Key features:
-
-* Election dashboard
-* Geographic hierarchy and seat-wise data
-* Candidate and party management
-* Report intake for rumors, misinformation, law violations, propaganda, and AI-generated video
-* Trending-topic analysis
-* ML-assisted event detection
-* Sentiment, tone, emotion, sarcasm, and intensity analysis
-
----
-
-### SocialInt — Social Media Intelligence Platform
-
-A Django-based monitoring platform for collecting, storing, analyzing, and reviewing posts from Facebook, TikTok, YouTube, and other social platforms.
-
-**Tech Stack:** Django, Django REST Framework, PostgreSQL, Daphne, Docker, REST APIs
-
-Key features:
-
-* Social post ingestion APIs
-* Author, media, source, and credential management
-* Keyword monitoring
-* Role-based access control
-* Dashboard and post review system
-* Token/session-authenticated API services
-
----
-
-### All in One Scraper
-
-A collection of Python-based scraper services for Bangladeshi news portals and social media sources.
-
-**Tech Stack:** Python, Docker, Selenium, Playwright, BeautifulSoup, Requests, Telethon, Twikit, YouTube/TikTok libraries
-
-Supported sources:
-
-* Bangladeshi news portals
-* Facebook pages and keyword search
-* Twitter/X keyword and profile scraping
-* YouTube keyword and channel scraping
-* TikTok keyword scraping
-* Telegram listener/scraper
-* Google News keyword scraping
-
----
-
-### Reel Maker — AI-Powered Short Video Generator
-
-An AI-powered tool that analyzes long-form videos, detects engaging moments, and exports them as short-form vertical reels.
-
-**Tech Stack:** Django, Django REST Framework, Django Channels, React, Vite, Tailwind CSS, Redis, Huey, OpenCV, NumPy, Pandas, ffmpeg, Docker
-
-Key features:
-
-* Video upload and chunking
-* Audio energy analysis
-* Visual motion analysis
-* Subtitle hook detection
-* Automatic reel extraction
-* 9:16 vertical crop
-* Text overlay
-* WebSocket-powered real-time progress
-
----
-
-### WhatsApp Automation System
-
-A full-stack WhatsApp automation platform with campaign management, AI-powered auto-reply, analytics, scheduling, media support, and contact management.
-
-**Tech Stack:** Node.js, Express, React, Vite, TypeScript, Tailwind CSS, MongoDB, Redis, Socket.io, OpenAI API, whatsapp-web.js
-
-Key features:
-
-* WhatsApp QR login
-* AI-powered auto-reply
-* Broadcast campaign management
-* Analytics dashboard
-* Contact and group management
-* Media sending
-* Campaign scheduling
-* JWT authentication
-
----
-
-### MultiBase — PostgreSQL Database Management System
-
-A web-based PostgreSQL database management system that allows users to create, manage, monitor, and connect multiple databases from a central interface.
-
-**Tech Stack:** Django, PostgreSQL, Bootstrap, Chart.js, Docker
-
-Key features:
-
-* Multi-database management
-* PostgreSQL server connection
-* Database metrics monitoring
-* User and permission management
-* Connection string generation
-* Visual charts for database metrics
-
----
-
-### WorkFlow API
-
-A backend MVP for task, team, user, notification, submission, reporting, and audit-log management.
-
-**Tech Stack:** Node.js, Express, SQLite, JWT, Role-Based Access Control
-
-Key features:
-
-* Authentication
-* User and team management
-* Task assignment and reassignment
-* Confidential tasks
-* Task submissions and reviews
-* Comments and attachments
-* Notifications
-* Reports
-* Audit logs
-
----
-
-### ImageStash
-
-A simple image hosting and management application.
-
-**Tech Stack:** Flask, Docker, Docker Compose
-
-Key features:
-
-* Image hosting
-* File upload and management
-* Docker-based deployment
-
----
-
-## 🤖 Hugging Face & Bangla NLP Work
+## 🤖 Bangla NLP & AI Work
 
 I have worked on multiple Bangla NLP models and datasets, including:
 
@@ -384,7 +206,7 @@ RAG/LLM:
 Embeddings, Vector Search, Semantic Search, Document Retrieval, LLM Answer Generation
 
 Scraping & Automation:
-Selenium, Playwright, BeautifulSoup, Requests, Telethon, Twikit, APScheduler, Huey
+Selenium, Playwright, BeautifulSoup, Requests, Telethon, APScheduler, Huey
 
 DevOps:
 Docker, Docker Compose, Redis, Git, GitHub, ASGI, Daphne, Django Channels
