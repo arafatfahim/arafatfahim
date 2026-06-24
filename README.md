@@ -15,10 +15,10 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-arafatfahim-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 <a href="https://arafatfahim.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-arafatfahim-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/arafat-hossain-fahim-38489b10b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-arafatfahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -284,14 +284,14 @@ I have worked on Bangla NLP models and datasets for:
 <a href="https://huggingface.co/arafatfahim">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/arafat-hossain-fahim-38489b10b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Your%20Link-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://arafatfahim.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:developer.arafatfahim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-developer.arafatfahim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
