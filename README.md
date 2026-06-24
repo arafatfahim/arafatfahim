@@ -1,33 +1,434 @@
-<h1 align="center">Hi 👋, I'm Arafat Hossain Fahim</h1>
-<h3 align="center">A passionate python programmer</h3>
+# Hi, I'm Arafat Hossain Fahim 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatfahim&label=Profile%20views&color=0e75b6&style=flat" alt="arafatfahim" /> </p>
+### Software Developer | Python/Django/FastAPI | AI & Bangla NLP Engineer | RAG Systems | Backend & Full-Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafatfahim" alt="arafatfahim" /></a> </p>
+I am a Software Developer and AI/NLP Engineer with professional experience in building backend systems, full-stack applications, automation tools, data pipelines, RAG systems, and AI-powered intelligence platforms.
 
-<p align="left"> <a href="https://twitter.com/arafatf43620662" target="blank"><img src="https://img.shields.io/twitter/follow/arafatf43620662?logo=twitter&style=for-the-badge" alt="arafatf43620662" /></a> </p>
+Currently, I work as an **IT Officer / Software Developer at the Ministry of Home Affairs (MOHA)**, where I build and maintain Django-based applications, dashboards, backend services, database-backed systems, and operational software solutions.
 
-- 🔭 I’m currently working on **Python**
+I enjoy building practical systems that solve real-world problems — especially in backend engineering, automation, AI, NLP, data processing, social/news intelligence, and information retrieval.
 
-- 💬 Ask me about **Django, Python, ML, AI**
+---
 
-- 📫 How to reach me **arafat872@gmail.com**
+## 🚀 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arafatf43620662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafatf43620662" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arafat-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arafat-fahim" height="30" width="40" /></a>
-<a href="https://fb.com/arafatfahim.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafatfahim.001" height="30" width="40" /></a>
-<a href="https://instagram.com/arafat.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arafat.fahim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucevgtr9-z7kknl98ykex6la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucevgtr9-z7kknl98ykex6la" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arafatfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arafatfahim" height="30" width="40" /></a>
-</p>
+* Build scalable backend systems using **Python, Django, Django REST Framework, and FastAPI**
+* Design and develop **REST APIs**, dashboards, admin panels, and workflow systems
+* Build **RAG systems** using document retrieval, embeddings, vector search, and LLM-based answer generation
+* Develop **Bangla NLP models** for sentiment analysis, emotion detection, NER, news classification, and event detection
+* Create **scraping and data collection pipelines** for news portals, social media, and public information sources
+* Build **AI-assisted automation systems**, monitoring dashboards, and data intelligence platforms
+* Work with **Docker-based deployments**, PostgreSQL databases, Redis, background workers, and real-time systems
+* Use AI tools like **Claude Code, Gemini CLI, OpenAI Codex, and Devin AI** for faster development, debugging, refactoring, and documentation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatfahim&show_icons=true&locale=en&layout=compact" alt="arafatfahim" /></p>
+## 🧠 Core Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafatfahim&show_icons=true&locale=en" alt="arafatfahim" /></p>
+### Backend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatfahim&" alt="arafatfahim" /></p>
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* Flask
+* REST API Development
+* Authentication & Authorization
+* JWT Authentication
+* Role-Based Access Control
+* API Integration
+* Backend Architecture
+* Database-Backed Web Applications
+
+### Frontend & Full-Stack
+
+* React.js
+* Vite
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Responsive UI Development
+* Dashboard Development
+* Admin Panel Development
+
+### Databases
+
+* PostgreSQL
+* SQLite
+* MongoDB
+* Mongoose
+* Database Design
+* ORM
+* Query Optimization
+* Data Modeling
+* Multi-database Management Systems
+
+### AI, ML & NLP
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Bangla NLP
+* Transformer Models
+* Hugging Face Transformers
+* Hugging Face Datasets
+* BanglaBERT
+* ELECTRA-based Models
+* Text Classification
+* Token Classification
+* Named Entity Recognition
+* Sentiment Analysis
+* Emotion Detection
+* News Topic Classification
+* Crime/Event Detection
+* Multi-task Learning
+* Model Fine-tuning
+* Dataset Creation
+* Data Annotation
+* Model Deployment
+
+### RAG & LLM Systems
+
+* Retrieval-Augmented Generation
+* Embeddings
+* Vector Search
+* Semantic Search
+* Document Retrieval
+* Contextual Prompting
+* LLM-based Answer Generation
+* Knowledge Base Systems
+* AI Search Systems
+* Information Retrieval Pipelines
+
+### Data Engineering & Automation
+
+* Web Scraping
+* News Scraping
+* Social Media Scraping
+* Selenium
+* Playwright
+* BeautifulSoup
+* Requests
+* Telethon
+* Twitter/X Scraping
+* YouTube Data Collection
+* TikTok Data Collection
+* Telegram Data Collection
+* Data Normalization
+* Data Pipelines
+* Background Schedulers
+* APScheduler
+* Huey
+* Cron-style Automation
+
+### DevOps & Tools
+
+* Docker
+* Docker Compose
+* Redis
+* Daphne / ASGI
+* Django Channels
+* Git
+* GitHub
+* Linux
+* Environment Configuration
+* Deployment-Ready Application Development
+* Logging & Monitoring
+* Static & Media File Handling
+
+### Data Science & Processing
+
+* Pandas
+* NumPy
+* SciPy
+* scikit-learn
+* OpenCV
+* ffmpeg
+* Data Cleaning
+* Data Analysis
+* Feature Extraction
+* Event Extraction
+* Text Processing
+* Audio/Video Analysis
+
+### AI Development Tools
+
+* Claude Code
+* Gemini CLI
+* OpenAI Codex
+* Devin AI
+* ChatGPT
+* AI-assisted coding
+* Prompt-driven development
+* Code generation
+* Code refactoring
+* Debugging assistance
+* Technical documentation
+
+---
+
+## 💼 Professional Experience
+
+### IT Officer / Software Developer
+
+**Ministry of Home Affairs (MOHA)**
+📍 Tejgaon, Dhaka
+🗓️ November 2022 – Present
+
+* Working as a software developer on Django-based applications, internal systems, dashboards, data workflows, and operational software solutions.
+* Building and maintaining backend logic, database-backed features, automation workflows, and deployment-ready web applications.
+* Developing software tools that support internal operations, reporting, and information management.
+
+### Software Developer / Django Developer
+
+**AR Integrations & Solution Ltd. (ARIS)**
+📍 Tally Office, 17/1, Sonatangor, Jhigatola, Dhaka 1209
+🗓️ October 2021 – May 2022
+
+* Developed Django-based software modules, backend features, database models, and web application functionality.
+* Contributed to full-stack implementation, debugging, feature delivery, and application maintenance.
+
+### Software Developer Intern / Django Developer
+
+**Winmac System**
+📍 Gorib-e-Newaz, Uttara
+🗓️ July 2021 – October 2021
+
+* Worked on Django development tasks, web application features, database operations, and software debugging.
+* Gained hands-on experience in professional backend development workflows and application structure.
+
+---
+
+## 🧩 Featured Projects
+
+### Prism — Election, News & Social Intelligence Platform
+
+An intelligence platform for monitoring election-related reports, geography, candidates, officials, trending topics, seat-wise news, event extraction, ML event detection, and sentiment analysis.
+
+**Tech Stack:** Django, PostgreSQL, Daphne/ASGI, Python, Pandas, NumPy, scikit-learn, BNLP, APScheduler, Docker
+
+Key features:
+
+* Election dashboard
+* Geographic hierarchy and seat-wise data
+* Candidate and party management
+* Report intake for rumors, misinformation, law violations, propaganda, and AI-generated video
+* Trending-topic analysis
+* ML-assisted event detection
+* Sentiment, tone, emotion, sarcasm, and intensity analysis
+
+---
+
+### SocialInt — Social Media Intelligence Platform
+
+A Django-based monitoring platform for collecting, storing, analyzing, and reviewing posts from Facebook, TikTok, YouTube, and other social platforms.
+
+**Tech Stack:** Django, Django REST Framework, PostgreSQL, Daphne, Docker, REST APIs
+
+Key features:
+
+* Social post ingestion APIs
+* Author, media, source, and credential management
+* Keyword monitoring
+* Role-based access control
+* Dashboard and post review system
+* Token/session-authenticated API services
+
+---
+
+### All in One Scraper
+
+A collection of Python-based scraper services for Bangladeshi news portals and social media sources.
+
+**Tech Stack:** Python, Docker, Selenium, Playwright, BeautifulSoup, Requests, Telethon, Twikit, YouTube/TikTok libraries
+
+Supported sources:
+
+* Bangladeshi news portals
+* Facebook pages and keyword search
+* Twitter/X keyword and profile scraping
+* YouTube keyword and channel scraping
+* TikTok keyword scraping
+* Telegram listener/scraper
+* Google News keyword scraping
+
+---
+
+### Reel Maker — AI-Powered Short Video Generator
+
+An AI-powered tool that analyzes long-form videos, detects engaging moments, and exports them as short-form vertical reels.
+
+**Tech Stack:** Django, Django REST Framework, Django Channels, React, Vite, Tailwind CSS, Redis, Huey, OpenCV, NumPy, Pandas, ffmpeg, Docker
+
+Key features:
+
+* Video upload and chunking
+* Audio energy analysis
+* Visual motion analysis
+* Subtitle hook detection
+* Automatic reel extraction
+* 9:16 vertical crop
+* Text overlay
+* WebSocket-powered real-time progress
+
+---
+
+### WhatsApp Automation System
+
+A full-stack WhatsApp automation platform with campaign management, AI-powered auto-reply, analytics, scheduling, media support, and contact management.
+
+**Tech Stack:** Node.js, Express, React, Vite, TypeScript, Tailwind CSS, MongoDB, Redis, Socket.io, OpenAI API, whatsapp-web.js
+
+Key features:
+
+* WhatsApp QR login
+* AI-powered auto-reply
+* Broadcast campaign management
+* Analytics dashboard
+* Contact and group management
+* Media sending
+* Campaign scheduling
+* JWT authentication
+
+---
+
+### MultiBase — PostgreSQL Database Management System
+
+A web-based PostgreSQL database management system that allows users to create, manage, monitor, and connect multiple databases from a central interface.
+
+**Tech Stack:** Django, PostgreSQL, Bootstrap, Chart.js, Docker
+
+Key features:
+
+* Multi-database management
+* PostgreSQL server connection
+* Database metrics monitoring
+* User and permission management
+* Connection string generation
+* Visual charts for database metrics
+
+---
+
+### WorkFlow API
+
+A backend MVP for task, team, user, notification, submission, reporting, and audit-log management.
+
+**Tech Stack:** Node.js, Express, SQLite, JWT, Role-Based Access Control
+
+Key features:
+
+* Authentication
+* User and team management
+* Task assignment and reassignment
+* Confidential tasks
+* Task submissions and reviews
+* Comments and attachments
+* Notifications
+* Reports
+* Audit logs
+
+---
+
+### ImageStash
+
+A simple image hosting and management application.
+
+**Tech Stack:** Flask, Docker, Docker Compose
+
+Key features:
+
+* Image hosting
+* File upload and management
+* Docker-based deployment
+
+---
+
+## 🤖 Hugging Face & Bangla NLP Work
+
+I have worked on multiple Bangla NLP models and datasets, including:
+
+* Bangla sentiment and emotion classification
+* Bangla named entity recognition
+* Bangla news topic classification
+* Crime and event detection from Bangla news
+* Token classification and text classification
+* Bangla NER dataset creation
+* Transformer model fine-tuning
+
+Hugging Face: https://huggingface.co/arafatfahim
+
+---
+
+## 🛠️ Tech Stack Summary
+
+```text
+Languages:
+Python, JavaScript, TypeScript, SQL
+
+Backend:
+Django, Django REST Framework, FastAPI, Flask, Node.js, Express.js
+
+Frontend:
+React.js, Vite, HTML, CSS, Tailwind CSS, Bootstrap
+
+Databases:
+PostgreSQL, SQLite, MongoDB
+
+AI/ML/NLP:
+Hugging Face, Transformers, BanglaBERT, scikit-learn, Pandas, NumPy, OpenCV, ffmpeg
+
+RAG/LLM:
+Embeddings, Vector Search, Semantic Search, Document Retrieval, LLM Answer Generation
+
+Scraping & Automation:
+Selenium, Playwright, BeautifulSoup, Requests, Telethon, Twikit, APScheduler, Huey
+
+DevOps:
+Docker, Docker Compose, Redis, Git, GitHub, ASGI, Daphne, Django Channels
+
+AI Tools:
+Claude Code, Gemini CLI, OpenAI Codex, Devin AI, ChatGPT
+```
+
+---
+
+## 📊 GitHub Stats
+
+![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatfahim\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatfahim\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+* GitHub: https://github.com/arafatfahim
+* Hugging Face: https://huggingface.co/arafatfahim
+* LinkedIn: Add your LinkedIn URL here
+* Portfolio: Add your portfolio URL here
+* Email: Add your professional email here
+
+---
+
+## 🎯 Career Interests
+
+I am interested in opportunities related to:
+
+* Backend Software Engineering
+* Python / Django / FastAPI Development
+* AI & NLP Engineering
+* Bangla NLP
+* RAG Systems
+* Data Intelligence Platforms
+* Automation Systems
+* Social Media Intelligence
+* News & Event Monitoring Systems
+* Full-Stack Software Development
+* AI-powered Product Development
+
+---
+
+> I enjoy building systems that turn complex data, workflows, and information into useful, reliable, and actionable software.
