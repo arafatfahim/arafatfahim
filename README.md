@@ -83,109 +83,233 @@ I am especially interested in:
 ## 🛠️ Technical Expertise
 
 <details open>
-<summary><b>Backend Development</b></summary>
+<summary><b>💻 Programming Languages</b></summary>
 
 <br/>
 
-* Python
-* Django
-* Django REST Framework
-* FastAPI
-* Flask
-* REST API Development
-* JWT Authentication
-* Role-Based Access Control
-* API Integration
-* Backend Architecture
-* Database-Backed Applications
+<table>
+  <tr>
+    <td><b>Primary</b></td>
+    <td>Python, JavaScript, TypeScript, SQL</td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>HTML5, CSS3</td>
+  </tr>
+</table>
 
 </details>
 
 <details open>
-<summary><b>AI, ML & Bangla NLP</b></summary>
+<summary><b>⚙️ Backend Development</b></summary>
 
 <br/>
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Bangla NLP
-* Transformer Models
-* Hugging Face Transformers
-* Hugging Face Datasets
-* BanglaBERT
-* Text Classification
-* Token Classification
-* Named Entity Recognition
-* Sentiment Analysis
-* Emotion Detection
-* News Topic Classification
-* Crime/Event Detection
-* Model Fine-Tuning
-* Dataset Creation
+<table>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>Django, Django REST Framework, FastAPI, Flask, Node.js, Express.js</td>
+  </tr>
+  <tr>
+    <td><b>API Development</b></td>
+    <td>REST APIs, API Integration, JWT Authentication, Token Authentication</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Backend Architecture, Role-Based Access Control, Database-Backed Applications, Admin Panels</td>
+  </tr>
+</table>
 
 </details>
 
 <details open>
-<summary><b>RAG & LLM Systems</b></summary>
+<summary><b>🎨 Frontend & Full-Stack Development</b></summary>
 
 <br/>
 
-* Retrieval-Augmented Generation
-* Embeddings
-* Vector Search
-* Semantic Search
-* Document Retrieval
-* Contextual Prompting
-* LLM-Based Answer Generation
-* Knowledge Base Systems
-* AI Search Systems
-* Information Retrieval Pipelines
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React.js, Vite, JavaScript, TypeScript</td>
+  </tr>
+  <tr>
+    <td><b>Styling</b></td>
+    <td>Tailwind CSS, Bootstrap, CSS3, Responsive UI Design</td>
+  </tr>
+  <tr>
+    <td><b>Applications</b></td>
+    <td>Dashboards, Admin Interfaces, Monitoring Systems, Full-Stack Web Applications</td>
+  </tr>
+</table>
 
 </details>
 
 <details open>
-<summary><b>Data Engineering & Automation</b></summary>
+<summary><b>🗄️ Databases & Data Modeling</b></summary>
 
 <br/>
 
-* Web Scraping
-* News Scraping
-* Social Media Scraping
-* Selenium
-* Playwright
-* BeautifulSoup
-* Requests
-* Telethon
-* Twitter/X Data Collection
-* YouTube Data Collection
-* TikTok Data Collection
-* Telegram Data Collection
-* Data Normalization
-* Background Schedulers
-* APScheduler
-* Huey
-* Cron-Style Automation
+<table>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>PostgreSQL, SQLite, MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <td><b>ORM / ODM</b></td>
+    <td>Django ORM, Mongoose</td>
+  </tr>
+  <tr>
+    <td><b>Database Skills</b></td>
+    <td>Database Design, Data Modeling, Query Optimization, Multi-Database Management</td>
+  </tr>
+</table>
 
 </details>
 
 <details open>
-<summary><b>AI-Assisted Development Tools</b></summary>
+<summary><b>🤖 AI, Machine Learning & Bangla NLP</b></summary>
 
 <br/>
 
-* Claude Code
-* Gemini CLI
-* OpenAI Codex
-* Devin AI
-* ChatGPT
-* Prompt-Driven Development
-* Code Generation
-* Debugging Assistance
-* Code Refactoring
-* Technical Documentation
+<table>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>Machine Learning, Deep Learning, Model Fine-Tuning, Model Deployment</td>
+  </tr>
+  <tr>
+    <td><b>NLP</b></td>
+    <td>Natural Language Processing, Bangla NLP, Text Classification, Token Classification</td>
+  </tr>
+  <tr>
+    <td><b>Transformer Models</b></td>
+    <td>Hugging Face Transformers, Hugging Face Datasets, BanglaBERT, ELECTRA-Based Models</td>
+  </tr>
+  <tr>
+    <td><b>Use Cases</b></td>
+    <td>Sentiment Analysis, Emotion Detection, Named Entity Recognition, News Topic Classification, Crime/Event Detection</td>
+  </tr>
+  <tr>
+    <td><b>Data Work</b></td>
+    <td>Dataset Creation, Data Annotation, Text Processing, Model Evaluation</td>
+  </tr>
+</table>
 
 </details>
+
+<details open>
+<summary><b>🔎 RAG, LLM & Information Retrieval</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>RAG Systems</b></td>
+    <td>Retrieval-Augmented Generation, Knowledge Base Systems, AI Search Systems</td>
+  </tr>
+  <tr>
+    <td><b>Retrieval</b></td>
+    <td>Document Retrieval, Semantic Search, Vector Search, Embeddings</td>
+  </tr>
+  <tr>
+    <td><b>LLM Workflows</b></td>
+    <td>Contextual Prompting, LLM-Based Answer Generation, Information Retrieval Pipelines</td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>📊 Data Engineering & Processing</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>Libraries</b></td>
+    <td>Pandas, NumPy, SciPy, scikit-learn</td>
+  </tr>
+  <tr>
+    <td><b>Processing</b></td>
+    <td>Data Cleaning, Data Normalization, Data Analysis, Feature Extraction</td>
+  </tr>
+  <tr>
+    <td><b>Media/Data Analysis</b></td>
+    <td>OpenCV, ffmpeg, Audio/Video Analysis, Event Extraction</td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🕷️ Web Scraping & Automation</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>Scraping Tools</b></td>
+    <td>Selenium, Playwright, BeautifulSoup, Requests</td>
+  </tr>
+  <tr>
+    <td><b>Social/Data Sources</b></td>
+    <td>News Portals, Facebook, Twitter/X, YouTube, TikTok, Telegram</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>APScheduler, Huey, Background Workers, Cron-Style Automation, Data Pipelines</td>
+  </tr>
+  <tr>
+    <td><b>Platform Tools</b></td>
+    <td>Telethon, YouTube Data Collection, TikTok Data Collection, Telegram Data Collection</td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🚀 DevOps, Deployment & System Tools</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>Containerization</b></td>
+    <td>Docker, Docker Compose</td>
+  </tr>
+  <tr>
+    <td><b>Servers & Runtime</b></td>
+    <td>Linux, ASGI, Daphne, Django Channels, Redis</td>
+  </tr>
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td><b>Deployment Skills</b></td>
+    <td>Environment Configuration, Logging, Monitoring, Static & Media File Handling</td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🧠 AI-Assisted Development Tools</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Claude Code, Gemini CLI, OpenAI Codex, Devin AI, ChatGPT</td>
+  </tr>
+  <tr>
+    <td><b>Use Cases</b></td>
+    <td>Prompt-Driven Development, Code Generation, Debugging, Refactoring, Documentation, Rapid Prototyping</td>
+  </tr>
+</table>
+
+</details>
+
 
 ---
 
