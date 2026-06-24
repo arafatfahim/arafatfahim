@@ -1,29 +1,91 @@
+<div align="center">
+
 # Hi, I'm Arafat Hossain Fahim 👋
 
-### Software Developer | Python/Django/FastAPI | AI & Bangla NLP Engineer | RAG Systems | Backend & Full-Stack Developer
+### Software Developer • Python/Django/FastAPI • AI & Bangla NLP Engineer • RAG Systems
 
-I am a Software Developer and AI/NLP Engineer with experience in building backend systems, full-stack applications, automation tools, data pipelines, RAG systems, and AI-powered intelligence platforms.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Backend+%26+Full-Stack+Software+Developer;AI+%26+Bangla+NLP+Engineer;RAG+Systems+%7C+Automation+%7C+Data+Pipelines;Building+Practical+Software+and+Intelligence+Systems" alt="Typing SVG" />
 
-I enjoy building practical systems that solve real-world problems — especially in backend engineering, automation, AI, NLP, data processing, social/news intelligence, and information retrieval.
+<br/>
+
+<a href="https://github.com/arafatfahim">
+  <img src="https://img.shields.io/badge/GitHub-arafatfahim-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://huggingface.co/arafatfahim">
+  <img src="https://img.shields.io/badge/Hugging%20Face-arafatfahim-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
 
-* Build backend systems using **Python, Django, Django REST Framework, and FastAPI**
-* Design and develop **REST APIs**, dashboards, admin panels, and workflow systems
-* Build **RAG systems** using document retrieval, embeddings, vector search, and LLM-based answer generation
-* Develop **Bangla NLP models** for sentiment analysis, emotion detection, NER, news classification, and event detection
-* Create **scraping and data collection pipelines** for news portals, social media, and public information sources
-* Build **AI-assisted automation systems**, monitoring dashboards, and data intelligence platforms
-* Work with **Docker-based deployments**, PostgreSQL databases, Redis, background workers, and real-time systems
-* Use AI tools like **Claude Code, Gemini CLI, OpenAI Codex, Devin AI, and ChatGPT** for faster development, debugging, refactoring, and documentation
+I am a **Software Developer and AI/NLP Engineer** with experience in building backend systems, full-stack web applications, automation tools, data pipelines, RAG systems, and AI-powered intelligence platforms.
+
+My work focuses on practical software systems that solve real-world problems using **Python, Django, FastAPI, REST APIs, PostgreSQL, automation, NLP, AI, and information retrieval**.
+
+I am especially interested in:
+
+<table>
+  <tr>
+    <td>🚀 Backend Engineering</td>
+    <td>🤖 AI & NLP Systems</td>
+    <td>🔎 RAG & Search Systems</td>
+  </tr>
+  <tr>
+    <td>📊 Data Pipelines</td>
+    <td>📰 News/Social Intelligence</td>
+    <td>⚙️ Automation Platforms</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧠 Core Skills
 
-### Backend Development
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" />
+
+### AI / ML / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+</div>
+
+---
+
+## 🛠️ Technical Expertise
+
+<details open>
+<summary><b>Backend Development</b></summary>
+
+<br/>
 
 * Python
 * Django
@@ -31,40 +93,18 @@ I enjoy building practical systems that solve real-world problems — especially
 * FastAPI
 * Flask
 * REST API Development
-* Authentication & Authorization
 * JWT Authentication
 * Role-Based Access Control
 * API Integration
 * Backend Architecture
-* Database-Backed Web Applications
+* Database-Backed Applications
 
-### Frontend & Full-Stack
+</details>
 
-* React.js
-* Vite
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-* Responsive UI Development
-* Dashboard Development
-* Admin Panel Development
+<details open>
+<summary><b>AI, ML & Bangla NLP</b></summary>
 
-### Databases
-
-* PostgreSQL
-* SQLite
-* MongoDB
-* Mongoose
-* Database Design
-* ORM
-* Query Optimization
-* Data Modeling
-* Multi-database Management Systems
-
-### AI, ML & NLP
+<br/>
 
 * Machine Learning
 * Deep Learning
@@ -74,7 +114,6 @@ I enjoy building practical systems that solve real-world problems — especially
 * Hugging Face Transformers
 * Hugging Face Datasets
 * BanglaBERT
-* ELECTRA-based Models
 * Text Classification
 * Token Classification
 * Named Entity Recognition
@@ -82,13 +121,15 @@ I enjoy building practical systems that solve real-world problems — especially
 * Emotion Detection
 * News Topic Classification
 * Crime/Event Detection
-* Multi-task Learning
-* Model Fine-tuning
+* Model Fine-Tuning
 * Dataset Creation
-* Data Annotation
-* Model Deployment
 
-### RAG & LLM Systems
+</details>
+
+<details open>
+<summary><b>RAG & LLM Systems</b></summary>
+
+<br/>
 
 * Retrieval-Augmented Generation
 * Embeddings
@@ -96,12 +137,17 @@ I enjoy building practical systems that solve real-world problems — especially
 * Semantic Search
 * Document Retrieval
 * Contextual Prompting
-* LLM-based Answer Generation
+* LLM-Based Answer Generation
 * Knowledge Base Systems
 * AI Search Systems
 * Information Retrieval Pipelines
 
-### Data Engineering & Automation
+</details>
+
+<details open>
+<summary><b>Data Engineering & Automation</b></summary>
+
+<br/>
 
 * Web Scraping
 * News Scraping
@@ -111,146 +157,149 @@ I enjoy building practical systems that solve real-world problems — especially
 * BeautifulSoup
 * Requests
 * Telethon
-* Twitter/X Scraping
+* Twitter/X Data Collection
 * YouTube Data Collection
 * TikTok Data Collection
 * Telegram Data Collection
 * Data Normalization
-* Data Pipelines
 * Background Schedulers
 * APScheduler
 * Huey
-* Cron-style Automation
+* Cron-Style Automation
 
-### DevOps & Tools
+</details>
 
-* Docker
-* Docker Compose
-* Redis
-* Daphne / ASGI
-* Django Channels
-* Git
-* GitHub
-* Linux
-* Environment Configuration
-* Deployment-Ready Application Development
-* Logging & Monitoring
-* Static & Media File Handling
+<details open>
+<summary><b>AI-Assisted Development Tools</b></summary>
 
-### Data Science & Processing
-
-* Pandas
-* NumPy
-* SciPy
-* scikit-learn
-* OpenCV
-* ffmpeg
-* Data Cleaning
-* Data Analysis
-* Feature Extraction
-* Event Extraction
-* Text Processing
-* Audio/Video Analysis
-
-### AI Development Tools
+<br/>
 
 * Claude Code
 * Gemini CLI
 * OpenAI Codex
 * Devin AI
 * ChatGPT
-* AI-assisted coding
-* Prompt-driven development
-* Code generation
-* Code refactoring
-* Debugging assistance
-* Technical documentation
+* Prompt-Driven Development
+* Code Generation
+* Debugging Assistance
+* Code Refactoring
+* Technical Documentation
+
+</details>
 
 ---
 
 ## 🤖 Bangla NLP & AI Work
 
-I have worked on multiple Bangla NLP models and datasets, including:
+I have worked on Bangla NLP models and datasets for:
 
-* Bangla sentiment and emotion classification
-* Bangla named entity recognition
-* Bangla news topic classification
-* Crime and event detection from Bangla news
-* Token classification and text classification
-* Bangla NER dataset creation
-* Transformer model fine-tuning
+<table>
+  <tr>
+    <td>✅ Bangla Sentiment Analysis</td>
+    <td>✅ Emotion Detection</td>
+  </tr>
+  <tr>
+    <td>✅ Named Entity Recognition</td>
+    <td>✅ News Topic Classification</td>
+  </tr>
+  <tr>
+    <td>✅ Crime/Event Detection</td>
+    <td>✅ Dataset Creation</td>
+  </tr>
+</table>
 
-Hugging Face: https://huggingface.co/arafatfahim
+<div align="center">
 
----
+<a href="https://huggingface.co/arafatfahim">
+  <img src="https://img.shields.io/badge/View%20My%20Hugging%20Face%20Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
 
-## 🛠️ Tech Stack Summary
-
-```text
-Languages:
-Python, JavaScript, TypeScript, SQL
-
-Backend:
-Django, Django REST Framework, FastAPI, Flask, Node.js, Express.js
-
-Frontend:
-React.js, Vite, HTML, CSS, Tailwind CSS, Bootstrap
-
-Databases:
-PostgreSQL, SQLite, MongoDB
-
-AI/ML/NLP:
-Hugging Face, Transformers, BanglaBERT, scikit-learn, Pandas, NumPy, OpenCV, ffmpeg
-
-RAG/LLM:
-Embeddings, Vector Search, Semantic Search, Document Retrieval, LLM Answer Generation
-
-Scraping & Automation:
-Selenium, Playwright, BeautifulSoup, Requests, Telethon, APScheduler, Huey
-
-DevOps:
-Docker, Docker Compose, Redis, Git, GitHub, ASGI, Daphne, Django Channels
-
-AI Tools:
-Claude Code, Gemini CLI, OpenAI Codex, Devin AI, ChatGPT
-```
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Stack Summary
 
-![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatfahim\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatfahim\&layout=compact\&theme=tokyonight)
+| Area           | Technologies                                                                          |
+| -------------- | ------------------------------------------------------------------------------------- |
+| **Languages**  | Python, JavaScript, TypeScript, SQL                                                   |
+| **Backend**    | Django, DRF, FastAPI, Flask, Node.js, Express.js                                      |
+| **Frontend**   | React, Vite, HTML, CSS, Tailwind CSS, Bootstrap                                       |
+| **Databases**  | PostgreSQL, SQLite, MongoDB, Redis                                                    |
+| **AI/ML/NLP**  | Hugging Face, Transformers, BanglaBERT, scikit-learn, Pandas, NumPy, OpenCV           |
+| **RAG/LLM**    | Embeddings, Vector Search, Semantic Search, Document Retrieval, LLM Answer Generation |
+| **Automation** | Selenium, Playwright, BeautifulSoup, Requests, Telethon, APScheduler, Huey            |
+| **DevOps**     | Docker, Docker Compose, Git, GitHub, Linux, ASGI, Daphne                              |
+| **AI Tools**   | Claude Code, Gemini CLI, OpenAI Codex, Devin AI, ChatGPT                              |
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Analytics
 
-* GitHub: https://github.com/arafatfahim
-* Hugging Face: https://huggingface.co/arafatfahim
-* LinkedIn: Add your LinkedIn URL here
-* Portfolio: Add your portfolio URL here
-* Email: Add your professional email here
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arafatfahim&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatfahim&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatfahim&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎯 Career Interests
 
-I am interested in opportunities related to:
+<div align="center">
 
-* Backend Software Engineering
-* Python / Django / FastAPI Development
-* AI & NLP Engineering
-* Bangla NLP
-* RAG Systems
-* Data Intelligence Platforms
-* Automation Systems
-* Social Media Intelligence
-* News & Event Monitoring Systems
-* Full-Stack Software Development
-* AI-powered Product Development
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django%20Development-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Engineering-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bangla%20NLP-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation%20Systems-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Intelligence-2563EB?style=for-the-badge" />
+
+</div>
 
 ---
 
-> I enjoy building systems that turn complex data, workflows, and information into useful, reliable, and actionable software.
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/arafatfahim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://huggingface.co/arafatfahim">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Add%20Your%20Link-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “I enjoy building systems that turn complex data, workflows, and information into useful, reliable, and actionable software.”
+
+</div>
